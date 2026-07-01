@@ -8,9 +8,18 @@ This repository contains the Python code used to generate the pre/post-score shi
 * **Title:** Epistemic agency in introductory biology: a blind-selection study reveals curricular influences on science integration processes
 * **Journal:** International Journal of STEM Education (Springer)
 * **Link:** [https://link.springer.com/article/10.1186/s40594-026-00608-z](https://link.springer.com/article/10.1186/s40594-026-00608-z)
+* **Code File Title:** TIMSIchangecode
+
+### Literature Cited
+- Estrada, M., Woodcock, A., Hernandez, P. R., & Schultz, P. W. (2011). Toward a model of social influence that explains minority student integration into the scientific community. Journal of educational psychology, 103(1), 206.
+- Thomas, S.A., Hester, S.D., Ediriarachchi, S.U. et al. Epistemic agency in introductory biology: a blind-selection study reveals curricular influences on science integration processes. IJ STEM Ed 13, 22 (2026). https://doi.org/10.1186/s40594-026-00608-z
+
 
 ### 🛠️ Prerequisites 
 To run this code locally through an IDE, you will need Python installed along with the following libraries:
 
 ```bash
 pip install pandas plotly openpyxl
+
+
+
